@@ -1,6 +1,6 @@
-# Portacullis
-It's a minecraft mod.
+# Portacullis Wiki
+It's wiki for a minecraft mod.
 
 Yep.
 
-To make swords and stuff, y'know?
+A wiki for a mod to make swords and stuff, y'know?
